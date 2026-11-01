@@ -101,13 +101,9 @@ A broad organization-level map of the tools and domains we explore. Qnetward’s
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,rust,go,cpp,c,java,kotlin,swift,dart,scala,lua,haskell&theme=dark" alt="Core engineering technologies" />
 
-**JavaScript** · **TypeScript** · **Python** · **Rust** · **Go** · **C++** · **C** · **Java** · **Kotlin** · **Swift** · **Dart** · **Scala** · **Lua** · **Haskell**
-
 ### 🧩 Frontend · Web Experience
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,astro,tailwind,threejs,graphql,webpack,vite,redux&theme=dark" alt="Frontend and web technologies" />
-
-**React** · **Next.js** · **Vue** · **Nuxt** · **Svelte** · **Astro** · **Tailwind CSS** · **Three.js** · **GraphQL** · **Webpack** · **Vite** · **Redux**
 
 **WebGPU** · **Motion UI** · **Edge Rendering** · **Streaming UI** · **Reactive Systems**
 
@@ -115,15 +111,11 @@ A broad organization-level map of the tools and domains we explore. Qnetward’s
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning technologies" />
 
-**Python** · **TensorFlow** · **PyTorch** · **OpenCV** · **scikit-learn**
-
 **OpenAI** · **Gemini** · **Claude** · **LangChain** · **LlamaIndex** · **CrewAI** · **AutoGen** · **AI Agents** · **Multi-Agent Systems** · **RAG Pipelines** · **Fine Tuning** · **Prompt Engineering** · **Agentic Workflows** · **LLMOps** · **Neural Search** · **Multimodal AI** · **Evals** · **Model Monitoring** · **Edge AI**
 
 ### ☁️ Cloud Native · Platform Engineering
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,linux,nginx,prometheus,grafana,jenkins&theme=dark" alt="Cloud and platform technologies" />
-
-**AWS** · **Google Cloud** · **Azure** · **Cloudflare** · **Docker** · **Kubernetes** · **Terraform** · **Linux** · **Nginx** · **Prometheus** · **Grafana** · **Jenkins**
 
 **Cloud Native** · **Microservices** · **Event Driven** · **Service Mesh** · **GitOps** · **DevSecOps** · **Observability** · **OpenTelemetry** · **Edge Computing** · **Serverless** · **Cost Optimization** · **Incident Response** · **Release Automation**
 
@@ -131,15 +123,11 @@ A broad organization-level map of the tools and domains we explore. Qnetward’s
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,cassandra,elasticsearch,kafka,rabbitmq,supabase,sqlite&theme=dark" alt="Distributed data technologies" />
 
-**PostgreSQL** · **MySQL** · **MongoDB** · **Redis** · **Firebase** · **Cassandra** · **Elasticsearch** · **Kafka** · **RabbitMQ** · **Supabase** · **SQLite**
-
 **Vector Databases** · **Qdrant** · **Neo4j** · **NATS** · **Apache Spark** · **Data Lakes** · **Pinecone** · **Weaviate**
 
 ### 🔐 Cybersecurity · Zero Trust
 
 <img src="https://skillicons.dev/icons?i=linux,cloudflare,docker,githubactions&theme=dark" alt="Security and infrastructure technologies" />
-
-**Linux** · **Cloudflare** · **Docker** · **GitHub Actions**
 
 **Zero Trust** · **OWASP** · **Threat Modeling** · **Penetration Testing** · **Encryption** · **OAuth 2.0** · **JWT** · **WAF** · **Supply Chain Security** · **Secrets Hygiene** · **IAM Boundaries**
 
@@ -147,23 +135,17 @@ A broad organization-level map of the tools and domains we explore. Qnetward’s
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,arduino,raspberrypi,linux,opencv,ros&theme=dark" alt="Embedded and cyber-physical technologies" />
 
-**C** · **C++** · **Rust** · **Python** · **Arduino** · **Raspberry Pi** · **Linux** · **OpenCV** · **ROS**
-
 **STM32** · **ESP32** · **FreeRTOS** · **Zephyr RTOS** · **UART** · **I2C** · **SPI** · **CAN Bus** · **MQTT** · **LoRaWAN** · **BLE** · **Zigbee** · **TinyML** · **TensorFlow Lite Micro** · **NVIDIA Jetson** · **ROS 2** · **SLAM** · **Sensor Fusion** · **Kalman Filter** · **PID Control** · **MATLAB** · **Simulink** · **KiCad** · **Altium** · **LTspice** · **Power Electronics** · **Smart Grid** · **Battery Management Systems**
 
 ### 🌐 Web3 · Robotics · XR · Creative Engineering
 
 <img src="https://skillicons.dev/icons?i=solidity,arduino,raspberrypi,linux,threejs,unity,unreal,godot,blender,figma,photoshop,illustrator,ae,premiere&theme=dark" alt="Web3, robotics, XR, and creative technologies" />
 
-**Solidity** · **Arduino** · **Raspberry Pi** · **Linux** · **Three.js** · **Unity** · **Unreal Engine** · **Godot** · **Blender** · **Figma** · **Photoshop** · **Illustrator** · **After Effects** · **Premiere Pro**
-
 **Smart Contracts** · **Layer 2** · **DAO** · **Embedded** · **Edge AI** · **Automation** · **WebXR** · **Simulation** · **Spatial Computing** · **Design Systems** · **UI Motion** · **Generative Design**
 
 ### 🧰 Developer Arsenal
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,idea,vercel,powershell,docker&theme=dark" alt="Developer tools" />
-
-**Git** · **GitHub** · **GitLab** · **Postman** · **VS Code** · **IntelliJ IDEA** · **Vercel** · **PowerShell** · **Docker**
 
 **Jira** · **Notion** · **Confluence** · **Prettier** · **ESLint** · **Platform Engineering**
 
@@ -173,6 +155,7 @@ A broad organization-level map of the tools and domains we explore. Qnetward’s
 **WebGPU Compute** · **On-Device AI** · **Autonomous Agents** · **Spatial Interfaces** · **Privacy-Preserving Systems** · **Next-Generation Networks**
 
 </details>
+
 **Qnetward today:** Go probe engine and API · Next.js / React / TypeScript dashboard · PostgreSQL / TimescaleDB · optional Redis cache · S3-compatible object storage · Docker Compose deployment.
 ## ↗ Explore Qnetward
 
