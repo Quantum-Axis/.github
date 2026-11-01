@@ -103,10 +103,10 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
   Qnetward contributor
 </td>
 <td align="center" width="25%">
-  <a href="https://github.com/gizemececetin">
-    <img src="https://avatars.githubusercontent.com/u/38366712?v=4" width="180" height="180" alt="Gizem Ece Çetin's GitHub avatar" />
+  <a href="https://github.com/CodeByPinar">
+    <img src="https://avatars.githubusercontent.com/u/107423523?v=4" width="180" height="180" alt="Pınar's GitHub avatar" />
   </a><br />
-  <strong><a href="https://github.com/gizemececetin">Gizem Ece Çetin</a></strong><br />
+  <strong><a href="https://github.com/CodeByPinar">Pınar</a></strong><br />
   Qnetward contributor
 </td>
 </tr>
