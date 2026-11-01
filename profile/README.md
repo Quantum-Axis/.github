@@ -81,11 +81,32 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
 </td>
 </tr>
 <tr>
-<td align="center" colspan="4">
+<td align="center" width="25%">
   <a href="https://github.com/OrhanAsantr">
     <img src="https://avatars.githubusercontent.com/u/247149651?v=4" width="180" height="180" alt="Orhan Asan's GitHub avatar" />
   </a><br />
   <strong><a href="https://github.com/OrhanAsantr">Orhan Asan</a></strong><br />
+  Qnetward contributor
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/NurhayatYurtaslan">
+    <img src="https://avatars.githubusercontent.com/u/80510115?v=4" width="180" height="180" alt="Nurhayat Yurtaslan's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/NurhayatYurtaslan">Nurhayat Yurtaslan</a></strong><br />
+  Qnetward contributor
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/needim">
+    <img src="https://avatars.githubusercontent.com/u/271912?v=4" width="180" height="180" alt="Nedim Arabacı's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/needim">Nedim Arabacı</a></strong><br />
+  Qnetward contributor
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/gizemececetin">
+    <img src="https://avatars.githubusercontent.com/u/38366712?v=4" width="180" height="180" alt="Gizem Ece Çetin's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/gizemececetin">Gizem Ece Çetin</a></strong><br />
   Qnetward contributor
 </td>
 </tr>
