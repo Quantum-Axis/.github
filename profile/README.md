@@ -93,22 +93,70 @@ flowchart LR
 
 We value clear interfaces, useful defaults, and infrastructure our users can control. Each project should make a real operational task easier to understand and complete.
 
-## ⌘ Technology Stack
+## ⌘ Technology & Capability Stack
 
-**⚡ Backend & Probe Engine**
+A broad organization-level map of the tools and domains we explore. Qnetward’s current production stack is called out separately below.
 
-<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" height="64" />
+### ⚡ Core Engineering
 
-**🎨 Frontend & Web Experience**
+<img src="https://skillicons.dev/icons?i=js,ts,py,rust,go,cpp,c,java,kotlin,swift,dart,scala,lua,haskell&theme=dark" alt="JavaScript, TypeScript, Python, Rust, Go, C++, C, Java, Kotlin, Swift, Dart, Scala, Lua, and Haskell" />
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, and Tailwind CSS" height="64" />
+### 🧩 Frontend · Web Experience
 
-**🗄️ Data & Platform**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,astro,tailwind,threejs,graphql,webpack,vite,redux&theme=dark" alt="React, Next.js, Vue, Nuxt, Svelte, Astro, Tailwind CSS, Three.js, GraphQL, Webpack, Vite, and Redux" />
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" alt="PostgreSQL, Redis, and Docker" height="64" />
+`WebGPU` · `Motion UI` · `Edge Rendering` · `Streaming UI` · `Reactive Systems`
 
-Qnetward pairs a **Go** backend and probe engine with a **Next.js / TypeScript** dashboard. **PostgreSQL / TimescaleDB** stores durable history; **Redis** and S3-compatible storage support deployments that need them.
+### 🧠 AI · AGI · Autonomous Systems
 
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,sklearn&theme=dark" alt="Python, TensorFlow, PyTorch, OpenCV, and scikit-learn" />
+
+`OpenAI` · `Gemini` · `Claude` · `LangChain` · `LlamaIndex` · `CrewAI` · `AutoGen` · `AI Agents` · `Multi-Agent Systems` · `RAG Pipelines` · `Fine Tuning` · `Prompt Engineering` · `Agentic Workflows` · `LLMOps` · `Neural Search` · `Multimodal AI` · `Evals` · `Model Monitoring` · `Edge AI`
+
+### ☁️ Cloud Native · Platform Engineering
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,linux,nginx,prometheus,grafana,jenkins&theme=dark" alt="AWS, Google Cloud, Azure, Cloudflare, Docker, Kubernetes, Terraform, Linux, Nginx, Prometheus, Grafana, and Jenkins" />
+
+`Cloud Native` · `Microservices` · `Event Driven` · `Service Mesh` · `GitOps` · `DevSecOps` · `Observability` · `OpenTelemetry` · `Edge Computing` · `Serverless` · `Cost Optimization` · `Incident Response` · `Release Automation`
+
+### 🗄️ Distributed Data Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,cassandra,elasticsearch,kafka,rabbitmq,supabase,sqlite&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Cassandra, Elasticsearch, Kafka, RabbitMQ, Supabase, and SQLite" />
+
+`Vector Databases` · `Qdrant` · `Neo4j` · `NATS` · `Apache Spark` · `Data Lakes` · `Pinecone` · `Weaviate`
+
+### 🔐 Cybersecurity · Zero Trust
+
+<img src="https://skillicons.dev/icons?i=linux,cloudflare,docker,githubactions&theme=dark" alt="Linux, Cloudflare, Docker, and GitHub Actions" />
+
+`Zero Trust` · `OWASP` · `Threat Modeling` · `Penetration Testing` · `Encryption` · `OAuth 2.0` · `JWT` · `WAF` · `Supply Chain Security` · `Secrets Hygiene` · `IAM Boundaries`
+
+### ⚡ EEE · Embedded AI · Cyber-Physical Systems
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,arduino,raspberrypi,linux,opencv,ros&theme=dark" alt="C, C++, Rust, Python, Arduino, Raspberry Pi, Linux, OpenCV, and ROS" />
+
+`STM32` · `ESP32` · `FreeRTOS` · `Zephyr RTOS` · `UART` · `I2C` · `SPI` · `CAN Bus` · `MQTT` · `LoRaWAN` · `BLE` · `Zigbee` · `TinyML` · `TensorFlow Lite Micro` · `NVIDIA Jetson` · `ROS 2` · `SLAM` · `Sensor Fusion` · `Kalman Filter` · `PID Control` · `MATLAB` · `Simulink` · `KiCad` · `Altium` · `LTspice` · `Power Electronics` · `Smart Grid` · `Battery Management Systems`
+
+### 🌐 Web3 · Robotics · XR · Creative Engineering
+
+<img src="https://skillicons.dev/icons?i=solidity,arduino,raspberrypi,linux,threejs,unity,unreal,godot,blender,figma,photoshop,illustrator,ae,premiere&theme=dark" alt="Solidity, Arduino, Raspberry Pi, Linux, Three.js, Unity, Unreal Engine, Godot, Blender, Figma, Photoshop, Illustrator, After Effects, and Premiere Pro" />
+
+`Smart Contracts` · `Layer 2` · `DAO` · `Embedded` · `Edge AI` · `Automation` · `WebXR` · `Simulation` · `Spatial Computing` · `Design Systems` · `UI Motion` · `Generative Design`
+
+### 🧰 Developer Arsenal
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,idea,vercel,powershell,docker&theme=dark" alt="Git, GitHub, GitLab, Postman, Visual Studio Code, IntelliJ IDEA, Vercel, PowerShell, and Docker" />
+
+`Jira` · `Notion` · `Confluence` · `Prettier` · `ESLint` · `Platform Engineering`
+
+<details>
+<summary><strong>🧪 Future Tech Research Radar</strong></summary>
+
+`WebGPU Compute` · `On-Device AI` · `Autonomous Agents` · `Spatial Interfaces` · `Privacy-Preserving Systems` · `Next-Generation Networks`
+
+</details>
+
+**Qnetward today:** Go probe engine and API · Next.js / React / TypeScript dashboard · PostgreSQL / TimescaleDB · optional Redis cache · S3-compatible object storage · Docker Compose deployment.
 ## ↗ Explore Qnetward
 
 | Resource | What you’ll find |
