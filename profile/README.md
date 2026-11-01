@@ -47,6 +47,27 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
 </tr>
 </table>
 
+## ◉ The team
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/Moparapairayat">
+    <img src="https://avatars.githubusercontent.com/u/83800319?v=4" width="112" height="112" alt="Mopara Pair Ayat's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/Moparapairayat">Mopara Pair Ayat</a></strong><br />
+  Organization member
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/monabber444">
+    <img src="https://avatars.githubusercontent.com/u/185014085?v=4" width="112" height="112" alt="Monabber Eaman's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/monabber444">Monabber Eaman</a></strong><br />
+  Qnetward contributor
+</td>
+</tr>
+</table>
+
 ## ◉ How we build
 
 ```mermaid
