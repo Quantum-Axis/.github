@@ -47,7 +47,7 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
 </tr>
 </table>
 
-## ◉ The team
+## ◉ Our Team
 
 <table width="100%">
 <tr>
