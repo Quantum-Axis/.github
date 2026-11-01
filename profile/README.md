@@ -110,6 +110,29 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
   Qnetward contributor
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/edayavuz6">
+    <img src="https://avatars.githubusercontent.com/u/249468949?v=4" width="180" height="180" alt="Eda Yavuz's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/edayavuz6">Eda Yavuz</a></strong><br />
+  Qnetward contributor
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/zeynepecekiris">
+    <img src="https://avatars.githubusercontent.com/u/174215159?v=4" width="180" height="180" alt="Zeynep Ece Kiris's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/zeynepecekiris">Zeynep Ece Kiris</a></strong><br />
+  Qnetward contributor
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/BerattCelikk">
+    <img src="https://avatars.githubusercontent.com/u/138959468?v=4" width="180" height="180" alt="Berat Erol Celik's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/BerattCelikk">Berat Erol ÇELİK</a></strong><br />
+  Qnetward contributor
+</td>
+</tr>
 </table>
 
 ## ◉ How we build
