@@ -66,18 +66,18 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
   Organization member
 </td>
 <td align="center" width="25%">
-  <a href="https://github.com/monabber444">
-    <img src="https://avatars.githubusercontent.com/u/185014085?v=4" width="180" height="180" alt="Monabber Eaman's GitHub avatar" />
-  </a><br />
-  <strong><a href="https://github.com/monabber444">Monabber Eaman</a></strong><br />
-  Qnetward contributor
-</td>
-<td align="center" width="25%">
   <a href="https://github.com/adrianhajdin">
     <img src="https://avatars.githubusercontent.com/u/24898559?v=4" width="180" height="180" alt="Adrian Hajdin's GitHub avatar" />
   </a><br />
   <strong><a href="https://github.com/adrianhajdin">Adrian Hajdin</a></strong><br />
   GitHub creator
+</td>
+<td align="center" width="25%">
+  <a href="https://github.com/monabber444">
+    <img src="https://avatars.githubusercontent.com/u/185014085?v=4" width="180" height="180" alt="Monabber Eaman's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/monabber444">Monabber Eaman</a></strong><br />
+  Qnetward contributor
 </td>
 </tr>
 <tr>
