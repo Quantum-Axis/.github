@@ -93,18 +93,19 @@ flowchart LR
 
 We value clear interfaces, useful defaults, and infrastructure our users can control. Each project should make a real operational task easier to understand and complete.
 
-## ⌘ Technology
+## ⌘ Technology Stack
 
-<div align="center">
+**⚡ Backend & Probe Engine**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=111827)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" height="64" />
 
-</div>
+**🎨 Frontend & Web Experience**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" alt="Next.js, React, TypeScript, and Tailwind CSS" height="64" />
+
+**🗄️ Data & Platform**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" alt="PostgreSQL, Redis, and Docker" height="64" />
 
 Qnetward pairs a **Go** backend and probe engine with a **Next.js / TypeScript** dashboard. **PostgreSQL / TimescaleDB** stores durable history; **Redis** and S3-compatible storage support deployments that need them.
 
