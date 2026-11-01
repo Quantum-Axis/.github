@@ -73,6 +73,15 @@ Probe connectivity, inspect DNS, follow live latency, and keep searchable histor
   Qnetward contributor
 </td>
 <td align="center" width="25%">
+  <a href="https://github.com/adrianhajdin">
+    <img src="https://avatars.githubusercontent.com/u/24898559?v=4" width="180" height="180" alt="Adrian Hajdin's GitHub avatar" />
+  </a><br />
+  <strong><a href="https://github.com/adrianhajdin">Adrian Hajdin</a></strong><br />
+  GitHub creator
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4">
   <a href="https://github.com/OrhanAsantr">
     <img src="https://avatars.githubusercontent.com/u/247149651?v=4" width="180" height="180" alt="Orhan Asan's GitHub avatar" />
   </a><br />
